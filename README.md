@@ -17,4 +17,4 @@ Here's the basic run down of what I've got so far:
 - Protect your NPCs through a CollectionService tag.
 - Performance is pretty fast, 500 NPCs still run at 60TPS.
 
-  Designing this thus far has been a balancing act between performance and accuracy, I'm basically done as far as accuracy goes, there's nothing more that really needs to be done there, but for performance, there's a few more things I'd like to do before I consider this "finished". I may also extend this system to "frontshotting" as well.
+Designing this thus far has been a balancing act between performance and accuracy, I'm basically done as far as accuracy goes, there's nothing more that really needs to be done there, but for performance, there's a few more things I'd like to do before I consider this "finished". I may also extend this system to "frontshotting" as well.
